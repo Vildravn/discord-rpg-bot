@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/val-ravn/discord-rpg-bot/issues"
   },
-  "homepage": "https://github.com/val-ravn/discord-rpg-bot#readme"
+  "homepage": "https://github.com/val-ravn/discord-rpg-bot#readme",
+  "dependencies": {
+    "config": "^1.21.0"
+  }
 }
