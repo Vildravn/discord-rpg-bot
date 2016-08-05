@@ -1,6 +1,7 @@
 {
     "Discord": {
         "token": "",
-        "ownerID": ""
+        "ownerID": "",
+        "prefix": "!"
     }
 }
