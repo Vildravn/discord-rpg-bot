@@ -1,0 +1,24 @@
+{
+  "name": "discord-rpg-bot",
+  "version": "0.0.1",
+  "description": "Discord bot with some RPG elements",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/val-ravn/discord-rpg-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "rpg"
+  ],
+  "author": "Valravn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/val-ravn/discord-rpg-bot/issues"
+  },
+  "homepage": "https://github.com/val-ravn/discord-rpg-bot#readme"
+}
